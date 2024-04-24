@@ -21,8 +21,8 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 - Understanding the grid layout.
 
 ### Screenshot
-![FHD view](https://github.com/KevinChristopherMorco/FAQ-accordion/blob/main/assets/screenshot/FHD.png?raw=true)
-![Mobile view](https://github.com/KevinChristopherMorco/FAQ-accordion/blob/main/assets/screenshot/Mobile.png?raw=true)
+![FHD view](https://github.com/KevinChristopherMorco/time-tracking-dashboard/blob/main/assets/screenshot/FHD.png?raw=true)
+![Mobile view](https://github.com/KevinChristopherMorco/time-tracking-dashboard/blob/main/assets/screenshot/Mobile.png?raw=true)
 
 
 ### Links
